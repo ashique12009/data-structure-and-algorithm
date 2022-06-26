@@ -1,4 +1,4 @@
-var given_array = [10,30,100,300,400,12];
+var given_array = [10, 30, 100, 300, 400, 12];
 
 var needle_item = 300;
 
