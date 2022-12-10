@@ -42,3 +42,10 @@ stackObj.pop();
 stackObj.peek();
 stackObj.size();
 stackObj.display();
+
+/**
+ * Output:
+Peek is: 20
+Size: 2
+Show stack: {"0":10,"1":20}
+ */
